@@ -35,10 +35,6 @@ I'm a Full Stack web developer passionate about coding and technology. My toolse
 [![Static Badge](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://github.com/pkrasulia)
 [![Static Badge](https://img.shields.io/badge/telegram-000?style=for-the-badge&logo=telegram)](https://t.me/pkrasulia)
 
-## Последние проекты
-
-[![Статический значок](https://img.shields.io/badge/gpthelp.ru-000?style=for-the-badge)](https://gpthelp.ru/)
-
 ## Связь со мной
 
 [![Статический значок](https://img.shields.io/badge/linkedin-000?style=for-the-badge&logo=linkedin)](https://github.com/pkrasulia)
